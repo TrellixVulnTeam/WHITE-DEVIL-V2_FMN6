@@ -1,6 +1,6 @@
 {
   "name": "𝑾𝑯𝑰𝑻𝑬 𝑫𝑬𝑽𝑰𝑳",
-  "description": "The best and most awaited userbot made by hellboi_atul and modified by Jarvis userbot's owner(@Sppidy) Made with ❤ For Support Join @Dark_cobra_support ",
+  "description": "The best and most awaited userbot made by @Theshashank and modified by All userbot cmd userbot's owner(@Theshashank) Made with ❤ For Support Join @whitedeviluserbot ",
   "logo": "https://telegra.ph/file/b40703c99f995645ec47b.jpg ",
     "keywords": [
     "telegram",
@@ -118,7 +118,7 @@
        "value": ""
     }, 
     "STRING_SESSION": {
-      "description": "Get this value by running https://darkcobra.crazycreatorr.repl.run/ ",
+      "description": "search on telegram @sessionstringbot step will be show on bot ",
       "value": "",
       "required": true
     },
