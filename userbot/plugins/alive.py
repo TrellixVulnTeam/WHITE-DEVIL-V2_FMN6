@@ -48,8 +48,8 @@ async def hmm(yes):
     pm_caption += "✘ About My System ✘\n\n"
     pm_caption += f"➾ **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ** ☞ {version.__version__}\n"
     pm_caption += "➾ **ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ** ☞ [ᴊᴏɪɴ](https://t.me/Whitedeviluserbot)\n"
-    pm_caption += "➾ **ʟɪᴄᴇɴꜱᴇ**  ☞ [𝚃𝙴𝙰𝙼 𝙲𝙾𝙱𝚁𝙰](https://github.com/theshashankk/WHITEDEVIL1.0)\n"
-    pm_caption += "➾ **ᴄᴏᴘʏʀɪɢʜᴛ ʙʏ** ☞ [WHITE-DEVIL-V2](https://github.com/theshashankk/WHITEDEVIL1.0)\n\n"
+    pm_caption += "➾ **ʟɪᴄᴇɴꜱᴇ**  ☞ [TEAM WHITE](https://github.com/theshashankk/WHITEDEVIL1.0)\n"
+    pm_caption += "➾ **ᴄᴏᴘʏʀɪɢʜᴛ ʙʏ** ☞ [WHITEDEVIL1.0](https://github.com/theshashankk/WHITEDEVIL1.0)\n\n"
     pm_caption += f"➾ **ᴜᴘᴛɪᴍᴇ** ☞ {uptime}\n\n"
     pm_caption += f"➾ **ᴍʏ ᴍᴀsᴛᴇʀ** ☞ [{DEFAULTUSER}](tg://user?id={ghanti})\n"
     on = await borg.send_file(yes.chat_id, file=file1,caption=pm_caption)
