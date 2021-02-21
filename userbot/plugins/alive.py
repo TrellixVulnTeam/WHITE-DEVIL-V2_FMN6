@@ -22,15 +22,15 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "WHITE DEVIL"
 # animation Idea by @ItzSipak && @Hell boy_pikachu
 # Made by @hellboi_atul ....and thanks to @Crackexy for the logos...
 # Kang with credits else gay...
-# alive.py for WD(WHITE DEVIL V2)
-global ghanti
+# alive.py for WD(WHITE DEVIL)
+global ..
 ghanti = borg.uid
 edit_time = 5
 """ =======================CONSTANTS====================== """
 file1 = "https://telegra.ph/file/a47512bb109b1d161950e.jpg"
 file2 = "https://telegra.ph/file/b40703c99f995645ec47b.jpg"
-file3 = "https://telegra.ph/file/a47512bb109b1d161950e.jpg"
-file4 = "https://telegra.ph/file/b40703c99f995645ec47b.jpg"
+file3 = "https://telegra.ph/file/e1b0be7faac50a1a77927.jpg"
+file4 = "https://telegra.ph/file/09deab1a7da9f466c1bc7.jpg"
 """ =======================CONSTANTS====================== """
 
 
@@ -48,8 +48,8 @@ async def hmm(yes):
     pm_caption += "✘ About My System ✘\n\n"
     pm_caption += f"➾ **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ** ☞ {version.__version__}\n"
     pm_caption += "➾ **ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ** ☞ [ᴊᴏɪɴ](https://t.me/Whitedeviluserbot)\n"
-    pm_caption += "➾ **ʟɪᴄᴇɴꜱᴇ**  ☞ [𝚃𝙴𝙰𝙼 𝙲𝙾𝙱𝚁𝙰](https://github.com/theshashankk/WHITE-DEVIL-V2)\n"
-    pm_caption += "➾ **ᴄᴏᴘʏʀɪɢʜᴛ ʙʏ** ☞ [WHITE-DEVIL-V2](https://github.com/theshashankk/WHITE-DEVIL-V2)\n\n"
+    pm_caption += "➾ **ʟɪᴄᴇɴꜱᴇ**  ☞ [𝚃𝙴𝙰𝙼 𝙲𝙾𝙱𝚁𝙰](https://github.com/theshashankk/WHITEDEVIL1.0)\n"
+    pm_caption += "➾ **ᴄᴏᴘʏʀɪɢʜᴛ ʙʏ** ☞ [WHITE-DEVIL-V2](https://github.com/theshashankk/WHITEDEVIL1.0)\n\n"
     pm_caption += f"➾ **ᴜᴘᴛɪᴍᴇ** ☞ {uptime}\n\n"
     pm_caption += f"➾ **ᴍʏ ᴍᴀsᴛᴇʀ** ☞ [{DEFAULTUSER}](tg://user?id={ghanti})\n"
     on = await borg.send_file(yes.chat_id, file=file1,caption=pm_caption)
@@ -71,7 +71,7 @@ async def hmm(yes):
     
     await asyncio.sleep(edit_time)
     ok6 = await borg.edit_message(yes.chat_id, ok5, file=file1)
-    
+    file4
     await asyncio.sleep(edit_time)
     ok7 = await borg.edit_message(yes.chat_id, ok6, file=file4)
 
