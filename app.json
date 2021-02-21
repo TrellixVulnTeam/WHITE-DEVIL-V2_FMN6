@@ -1,7 +1,7 @@
 {
-  "name": "𝔻𝔸ℝ𝕂 ℂ𝕆𝔹ℝ𝔸",
+  "name": "𝑾𝑯𝑰𝑻𝑬 𝑫𝑬𝑽𝑰𝑳",
   "description": "The best and most awaited userbot made by hellboi_atul and modified by Jarvis userbot's owner(@Sppidy) Made with ❤ For Support Join @Dark_cobra_support ",
-  "logo": "https://telegra.ph/file/00f47c54ceda3944dc47c.jpg ",
+  "logo": "https://telegra.ph/file/b40703c99f995645ec47b.jpg ",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/DARK-COBRA/DARKCOBRA/",
-  "website": "https://github.com/DARK-COBRA/DARKCOBRA/",
-  "success_url": "https://t.me/Dark_cobra_support",
+  "repository": "https://github.com/theshashankk/WHITE-DEVIL-V2",
+  "website": "https://github.com/theshashankk/WHITE-DEVIL-V2",
+  "success_url": "https://t.me/whitedeviluserbot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -29,7 +29,7 @@
     },
 
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @hellboi_atul.",
+      "description": "Fill your Full name or Username like @Theshashank.",
       "value": "",
       "required": true
     },
@@ -45,7 +45,7 @@
     },
     "ALIVE_PHOTTO": {
       "description": "Let it be what it is(skip)..or you can change the link according to your convince..this link is useful for `.awake` command.",
-      "value": "https://telegra.ph/file/0d0fafe17acca1c51b42d.jpg",
+      "value": "https://telegra.ph/file/b40703c99f995645ec47b.jpg",
       "required": true
     },
     "DEFAULT_BIO": {
@@ -55,7 +55,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for pmpermit custom pic.",
-      "value": "https://telegra.ph/file/ad8430d78a8e1adb3d8ea.jpg",
+      "value": "https://telegra.ph/file/b40703c99f995645ec47b.jpg",
       "required": true
     },
     "PM_PERMIT_GROUP_ID": {
@@ -188,7 +188,7 @@
     },
     "EMOJI_TO_DISPLAY_IN_HELP": {
       "description": "Set The emojies You Want to Add In Help Command You Can Add Multiple Emojies too!!",
-      "value": "📨",
+      "value": "😈",
       "required": true
     },
     "SUDO_USERS": {
